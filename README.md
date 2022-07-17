@@ -17,9 +17,9 @@
   <img    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain.svg"    width="60px" height='60px'  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RexenN&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliekbersen&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RexenN&layout=compact&theme=github_dark&hide_border=true)](https://github.com/RexenN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RexenN&layout=compact&theme=github_dark&hide_border=true)](https://github.com/aliekbersen/github-readme-stats)
 
 Certificates:
 
